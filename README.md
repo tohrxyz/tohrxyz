@@ -1,5 +1,5 @@
 # About me
-I'm Tomáš Hrib and I'm interested in building freedom technologies, studying economics and pursuing individual freedom.
+I'm Tomáš Hrib and am interested in building freedom technologies, studying economics and pursuing individual freedom.
 # Contact me
 You can contact me on tomas.hrib@proton.me
 <!---
