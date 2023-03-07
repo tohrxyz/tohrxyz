@@ -1,17 +1,28 @@
-## About me
-I'm Tomáš Hrib and am interested in building freedom technologies, studying economics and pursuing individual freedom.
-## Contact me
-You can contact me on tomas.hrib@proton.me
+## 🧑‍💻 Who Am I ?
+ - my name is Tomáš Hrib
+ - currently a student (secondary school -> Application Development)
+ - interested in code, AI, bitcoin, cryptography and freedom
+ 
+## 🏗️ What Am I Currently Up To?
+ - building an android bitcoin wallet [Zephyrus Wallet](https://github.com/tohrxyz/zephyrus-wallet/) in Kotlin Jetpack Compose
+ - developing an open UI front-end for gpt-3.5-turbo api [ChatGPT-Open-UI](https://github.com/tohrxyz/chatgpt-open-ui/) in React.js and TailWindCSS
+ - working on native Android & iOS app that summarizes long educational text into digestible bullet points [Learn-Quick](https://github.com/tohrxyz/learn-quick/) in React Native
+ - learning PHP and MySQL through school assignments [PHP-SQL-Learn](https://github.com/tohrxyz/php-sql-learn/)
 
-Twitter: https://twitter.com/tohrxyz
+## ⌛ What Were My Previous Endevours?
+ - created GUI app to calculate quadratic equation and render zoomable function graph [Quadratic-Calculator](https://github.com/tohrxyz/quadratic-calculator) in JavaFX
+ - authored personal static website in HTML & CSS
+ - developed several CLI applications in C for school assignments
 
-## Support me!
+## ✍️ Where Can You Contact Me At?
+ - write me an e-mail tomas.hrib@proton.me
+ - check me on twitter [@tohrxyz](https://twitter.com/tohrxyz)
+
+## 💸 How Can You Support Me?
 I very much appreciate any donations that you might make.
-Please note, that everything is voluntary and there are no refunds.
-### You can send me a donation via:
-- Bitcoin on-chain: <strong> 36ZesvSFoyDBJcJMYRyUP2hnWcwjxjp7JD </strong>
-- Lightning Network address: <strong> tohr@lnbc.cz </strong>
-- Monero: <strong> 49261YsGmYjeEAipPeRC5g2KR8imwedAYX4i3Gy9hYvN7JUBB4Vyc5U7aDbsnUF43S7tjLptrYmdt32P4yytvo9s6p51dgc </strong>
+  - Bitcoin on-chain: <strong> 36ZesvSFoyDBJcJMYRyUP2hnWcwjxjp7JD </strong>
+  - Lightning Network address: <strong> tohr@lnbc.cz </strong>
+  - Monero: <strong> 49261YsGmYjeEAipPeRC5g2KR8imwedAYX4i3Gy9hYvN7JUBB4Vyc5U7aDbsnUF43S7tjLptrYmdt32P4yytvo9s6p51dgc </strong>
 <!---
 tomashrib/tomashrib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
