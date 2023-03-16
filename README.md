@@ -8,6 +8,7 @@
  - developing an open UI front-end for gpt-3.5-turbo api [ChatGPT-Open-UI](https://github.com/tohrxyz/chatgpt-open-ui/) in React.js and TailWindCSS
  - working on Android & iOS app that summarizes long educational text into digestible bullet points [Learn-Quick](https://github.com/tohrxyz/learn-quick/) in React Native
  - learning PHP and MySQL through school assignments [PHP-SQL-Learn](https://github.com/tohrxyz/php-sql-learn/)
+ - learning Rust language [learning-rust](https://github.com/tohrxyz/learning-rust/)
 
 ## ⌛ What Were My Previous Endevours?
  - created GUI app to calculate quadratic equation and render zoomable function graph [Quadratic-Calculator](https://github.com/tohrxyz/quadratic-calculator) in JavaFX
