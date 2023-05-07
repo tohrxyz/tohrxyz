@@ -1,16 +1,16 @@
 ## 🧑‍💻 Who Am I ?
  - my name is Tomáš Hrib
  - currently a student (secondary school -> Application Development)
+ - frontend, backend and android developer
  - interested in code, AI, bitcoin, cryptography and freedom
  
 ## 🏗️ What Am I Currently Up To?
- - building an android bitcoin wallet [Zephyrus Wallet](https://github.com/tohrxyz/zephyrus-wallet/) in Kotlin Jetpack Compose
- - developing an open UI front-end for gpt-3.5-turbo api [ChatGPT-Open-UI](https://github.com/tohrxyz/chatgpt-open-ui/) in React.js and TailWindCSS
- - working on Android & iOS app that summarizes long educational text into digestible bullet points [Learn-Quick](https://github.com/tohrxyz/learn-quick/) in React Native
- - building a web server in Rust [rust-web-server](https://github.com/tohrxyz/rust-web-server/)
- - learning Java Spring framework in [java-spring](https://github.com/tohrxyz/java-spring/)
- - learning PHP and MySQL through school assignments [PHP-SQL-Learn](https://github.com/tohrxyz/php-sql-learn/)
- - learning Rust language [learning-rust](https://github.com/tohrxyz/learning-rust/)
+ - building an android bitcoin wallet [Zephyrus Wallet](https://github.com/tohrxyz/zephyrus-wallet/) in **Kotlin Jetpack Compose**
+ - developing an open UI front-end for gpt-3.5-turbo api [ChatGPT-Open-UI](https://github.com/tohrxyz/chatgpt-open-ui/) in **React.js**
+ - working on Android & iOS app that summarizes long educational text into digestible bullet points [Learn-Quick](https://github.com/tohrxyz/learn-quick/) in **React Native**
+ - learning **PHP** and **MySQL** through school assignments [PHP-SQL-Learn](https://github.com/tohrxyz/php-sql-learn/)
+ - learning **Rust** language [learning-rust](https://github.com/tohrxyz/learning-rust/)
+ - developing landing web pages for [DimensionLab/web](https://github.com/DimensionLab/web) and [DimensionLab/simlai-web](https://github.com/DimensionLab/simlai-web) in **Next.js**
 
 ## ⌛ What Were My Previous Endevours?
  - created GUI app to calculate quadratic equation and render zoomable function graph [Quadratic-Calculator](https://github.com/tohrxyz/quadratic-calculator) in JavaFX
