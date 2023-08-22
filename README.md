@@ -7,7 +7,7 @@
   </p>
 
 ## About
-- Junior software engineer at [@DimensionLab](https://github.com/DimensionLab) developing [siml.ai](https://siml.ai/) web
+- Software engineer at [@DimensionLab](https://github.com/DimensionLab) developing [siml.ai](https://siml.ai/) web and other company products
 
 - Creating a way to store & share files with e2ee by utilizing Shamir scheme and IPFS at [tams.wtf](https://tams.wtf)
 
