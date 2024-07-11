@@ -5,16 +5,19 @@
   </p>
 
 ## About
-- Software engineer at [@DimensionLab](https://github.com/DimensionLab) developing [siml.ai](https://siml.ai/) web and other company products
+- Software engineer at [@DimensionLab](https://github.com/DimensionLab) developing [siml.ai](https://siml.ai/) and [platform.siml.ai](https://platform.siml.ai)
 
-- Creating a way to store & share files with e2ee by utilizing Shamir scheme and IPFS at [tams.wtf](https://tams.wtf)
+- Developed a way to store & share files with e2ee by utilizing Shamir scheme and IPFS, with crypto repo at [theaftermessage/crypto](https://github.com/theaftermessage/crypto)
 
-- 📫 How to reach me **tomas.hrib@proton.me**
+- Interested in learning by doing, crypto from scratch
+
+- Working with React, Next, Typescript, Python and a bit of Golang and Rust
+
+- 📫 How to reach me **tohrxyz@proton.me**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/tohrxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohrxyz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tohrxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tohrxyz" height="30" width="40" /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
