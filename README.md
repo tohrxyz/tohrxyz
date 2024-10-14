@@ -34,10 +34,12 @@ Web3 DeFi AAVE lending position observer bot, that monitors status for account a
 - [Profilestr](https://github.com/tohryxz/profilestr) -> view nostr notes by npub, using this vanilla javascript no-build web-app
 - [Trawix](https://github.com/tohrxyz/trawix) -> nostr websocket translator to HTTP GET endpoint
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/tohrxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohrxyz" height="30" width="40" /></a>
-</p>
+## Write me
+- Email: `tohrxyz@proton.me`
+- Signal: `@tohrxyz.1337`
+- Twitter (X): [@tohrxyz](https://twitter.com/tohrxyz)
+- Nostr: `npub1cdusut94gaqvhtpan28lca6y8czwj4akdrw5n24stckr52wmcpuqjmnrzh`
+- Simplex: [connection link](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FST4q5njqDdxEPg8xM1wemTC6foKBGvpH%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAHcTF4L9CRsF1xjb9kTi8YZ1ekbg-AFkzYAHxz9zLUxE%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 <!---
