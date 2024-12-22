@@ -4,7 +4,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=0e75b6&label=Stars&style=flat&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tohrxyz"/></a>
   </p>
 
-## Contact m
+## Contact me
 - Email: `tohrxyz @ proton.me`
 - Signal: `@tohrxyz.1337`
 - Twitter (X): [@tohrxyz](https://twitter.com/tohrxyz)
